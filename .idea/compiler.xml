@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="JDBCProgrammingExamplee" />
         <module name="JDBCStaticCURD" />
+        <module name="JDBCPrepareStatementCURD" />
+        <module name="JDBCCallableStatement" />
       </profile>
     </annotationProcessing>
   </component>
